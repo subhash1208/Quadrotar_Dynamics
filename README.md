@@ -1,24 +1,4 @@
-## Quadrotor Control, Path Planning and Trajectory Optimization
-<a href="https://youtu.be/lA2B1YDLJaY">
-<img src="imgs/hover.jpg" alt="step" width="600">
-</a>
 
-(Click above image for real quadrotor demos)
-
-Following [MEAM 620 Advanced Robotics](https://alliance.seas.upenn.edu/~meam620/wiki/) course at University of Pennsylvania. 
-
-(For Penn students: *DO NOT* spoil the fun by looking at this repo and not working on your assignments! and most importantly, *DO NOT* violate the honor code!)
-
-This repo includes matlab code for:
-- Quadrotor PD controller
-- Path planning algorithms (Dijkstra, A*)
-- Trajectory optimizations (Minimum Snap/Acceleration Trajectory)
-
-Please cite this work using the following bibtex if you use the software in your publications
-
-```
-
-```
 
 ## PD Controller
 
